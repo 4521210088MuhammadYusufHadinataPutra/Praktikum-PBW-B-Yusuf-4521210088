@@ -14,10 +14,10 @@
 ![Biodata Sebelum](biodata%20sebelum.png)
 
 #### Identitas.php
-<!-- Gambar untuk Identitas.php sebelum modifikasi belum diunggah -->
+![Identitas Sebelum](identitas%20sebelum.png)
 
 #### Hitung.php
-<!-- Gambar untuk Hitung.php sebelum modifikasi belum diunggah -->
+![Hitung Sebelum](hitung%20sebelum.png)
 
 ### b. hasil running
 
@@ -28,10 +28,10 @@
 ![Run Biodata Sebelum](run%20biodata%20sebelum.png)
 
 #### Identitas.php
-<!-- Gambar hasil running Identitas.php sebelum modifikasi belum diunggah -->
+![Run Identitas Sebelum](run%20identitas%20sebelum.png)
 
 #### Hitung.php
-<!-- Gambar hasil running Hitung.php sebelum modifikasi belum diunggah -->
+![Run Hitung Sebelum](run%20hitung%20sebelum.png)
 
 ## 2. Sesudah di modifikasi
 
@@ -51,10 +51,21 @@
 ![Kalkulator Sesudah 5](kalkulator%20sesudah%205.png)
 
 #### Identitas.php
-<!-- Gambar untuk Identitas.php sesudah modifikasi belum diunggah -->
+![Identitas Sesudah](identitas%20sesudah.png)
+![Identitas Sesudah 2](identitas%20sesudah%202.png)
+![Identitas Sesudah 3](identitas%20sesudah%203.png)
+![Identitas Sesudah 4](identitas%20sesudah%204.png)
+![Identitas Sesudah 5](identitas%20sesudah%205.png)
+![Identitas Sesudah 6](identitas%20sesudah%206.png)
+![Identitas Sesudah 7](identitas%20sesudah%207.png)
+![Identitas Sesudah 8](identitas%20sesudah%208.png)
 
 #### Hitung.php
-<!-- Gambar untuk Hitung.php sesudah modifikasi belum diunggah -->
+![Hitung Sesudah](hitung%20sesudah.png)
+![Hitung Sesudah 2](hitung%20sesudah%202.png)
+![Hitung Sesudah 3](hitung%20sesudah%203.png)
+![Hitung Sesudah 4](hitung%20sesudah%204.png)
+![Hitung Sesudah 5](hitung%20sesudah%205.png)
 
 ### b. Hasil Running
 
@@ -65,7 +76,7 @@
 ![Run Kalkulator Sesudah](run%20kalkulator%20sesudah.png)
 
 #### Identitas.php
-<!-- Gambar hasil running Identitas.php sesudah modifikasi belum diunggah -->
+![Run Identitas Sesudah](run%20identitas%20sesudah.png)
 
 #### Hitung.php
-<!-- Gambar hasil running Hitung.php sesudah modifikasi belum diunggah -->
+![Run Hitung Sesudah](run%20hitung%20sesudah.png)
