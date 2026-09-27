@@ -3,8 +3,7 @@
 ## 1. Sebelum di modifikasi
 ### a. kode
        Kalkulator.php
-       (<img width="810" height="1075" alt="kalkulator sebelum" src="https://github.com/user-attachments/assets/d93b25a5-bb08-4c60-a08d-85fc84c1f2d7" />)
-       
+       (https://github.com/4521210088MuhammadYusufHadinataPutra/Praktikum-PBW-B-Yusuf-4521210088/blob/7d92c5d6aba5dc3e30e9a43bf9fa9c456cd72f52/kalkulator%20sebelum.png)
        (<img width="742" height="407" alt="kalkulatir sebelum 2" src="https://github.com/user-attachments/assets/349e438d-a230-4ed3-bf09-db052050c504" />)
        Biodata.php
        
