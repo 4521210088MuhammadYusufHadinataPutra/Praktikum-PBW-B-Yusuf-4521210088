@@ -2,13 +2,12 @@
 ## Praktikum PBW B MuhammadYusufHadinataPutra 4521210088 Tugas 1
 ## 1. Sebelum di modifikasi
 ### a. kode
-       Kalkulator.php
-       (https://github.com/4521210088MuhammadYusufHadinataPutra/Praktikum-PBW-B-Yusuf-4521210088/blob/7d92c5d6aba5dc3e30e9a43bf9fa9c456cd72f52/kalkulator%20sebelum.png)
-       (<img width="742" height="407" alt="kalkulatir sebelum 2" src="https://github.com/user-attachments/assets/349e438d-a230-4ed3-bf09-db052050c504" />)
-       Biodata.php
+#### Kalkulator.php
+       ![image alt](https://github.com/4521210088MuhammadYusufHadinataPutra/Praktikum-PBW-B-Yusuf-4521210088/blob/7d92c5d6aba5dc3e30e9a43bf9fa9c456cd72f52/kalkulator%20sebelum.png)
+#### Biodata.php
        
-       Identitas.php
-       Hitung.php
+#### Identitas.php
+#### Hitung.php
 ### b. hasil running
        Kalkulator.php
        Biodata.php
